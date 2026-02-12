@@ -6,6 +6,8 @@ Student ID: 101504303
 ---
 
 ## 1. Packages / Project Setup
+To start the server in development mode:
+`npm run dev`
 
 The project uses:
 
@@ -24,8 +26,6 @@ Screenshot: `packages.png` (project root in terminal and installed node packages
 - Attempting to reuse an existing username shows an error.
 
 Screenshots:
-
-- `signup-success.png` – successful signup.  
 <img width="1904" height="638" alt="signup-success png" src="https://github.com/user-attachments/assets/68f4dbc5-a84f-42cc-9483-755fb7220d25" />
 
 
@@ -38,8 +38,6 @@ Screenshots:
 - Logout clears `localStorage` and redirects back to login.
 
 Screenshots:
-
-- `login-page.png` – login UI.  
 <img width="1904" height="534" alt="login-page png" src="https://github.com/user-attachments/assets/98e629f4-19f2-4362-8db0-c19168f2c032" />
 
 ---
