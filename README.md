@@ -26,7 +26,6 @@ Screenshot: `packages.png` (project root in terminal and installed node packages
 Screenshots:
 
 - `signup-success.png` – successful signup.  
-- `signup-duplicate.png` – duplicate username error.
 
 ---
 
@@ -39,7 +38,6 @@ Screenshots:
 Screenshots:
 
 - `login-page.png` – login UI.  
-- `login-chat-redirect.png` – after login, redirected to chat.
 
 ---
 
