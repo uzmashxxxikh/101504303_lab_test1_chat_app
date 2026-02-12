@@ -26,6 +26,7 @@ Screenshot: `packages.png` (project root in terminal and installed node packages
 Screenshots:
 
 - `signup-success.png` – successful signup.  
+<img width="1904" height="950" alt="signup-success png" src="https://github.com/user-attachments/assets/959669f0-7511-4335-a8bf-f95f5f316a49" />
 
 ---
 
@@ -38,6 +39,7 @@ Screenshots:
 Screenshots:
 
 - `login-page.png` – login UI.  
+<img width="1904" height="960" alt="login-page png" src="https://github.com/user-attachments/assets/785d653e-8763-4bc4-aac6-f002e273653c" />
 
 ---
 
