@@ -33,7 +33,8 @@ The project uses:
 - Attempting to reuse an existing username shows an error message.
 
 Screenshot (signup success):  
-https://github.com/user-attachments/assets/68f4dbc5-a84f-42cc-9483-755fb7220d25
+<img width="1904" height="638" alt="signup-success png" src="https://github.com/user-attachments/assets/68f4dbc5-a84f-42cc-9483-755fb7220d25" />
+
 
 
 3. Login Screen
@@ -44,7 +45,7 @@ https://github.com/user-attachments/assets/68f4dbc5-a84f-42cc-9483-755fb7220d25
 - Logout clears localStorage and redirects back to the login page.
 
 Screenshot (login page):  
-https://github.com/user-attachments/assets/98e629f4-19f2-4362-8db0-c19168f2c032
+<img width="1904" height="534" alt="login-page png" src="https://github.com/user-attachments/assets/98e629f4-19f2-4362-8db0-c19168f2c032" />
 
 
 4. Rooms and Group Chat
@@ -58,10 +59,12 @@ https://github.com/user-attachments/assets/98e629f4-19f2-4362-8db0-c19168f2c032
 
 Screenshots:  
 Rooms view:  
-https://github.com/user-attachments/assets/357ac631-f289-4740-aeed-753575f6a791  
+<img width="917" height="746" alt="Screenshot 2026-02-11 193132" src="https://github.com/user-attachments/assets/357ac631-f289-4740-aeed-753575f6a791" />
+
 
 Chat view (dark style):  
-https://github.com/user-attachments/assets/afc7bad5-3c65-4c9c-92c9-826ecb358459
+<img width="958" height="788" alt="Screenshot 2026-02-11 192352" src="https://github.com/user-attachments/assets/afc7bad5-3c65-4c9c-92c9-826ecb358459" />
+
 
 
 5. Private Messages
@@ -72,7 +75,7 @@ https://github.com/user-attachments/assets/afc7bad5-3c65-4c9c-92c9-826ecb358459
 - Only the sender sees their own private message bubble in the UI, while the database records both users.
 
 Screenshot (private message UI):  
-https://github.com/user-attachments/assets/2d9a9664-78f0-441d-a241-e99b024edc7b
+<img width="649" height="376" alt="Screenshot 2026-02-11 190355" src="https://github.com/user-attachments/assets/2d9a9664-78f0-441d-a241-e99b024edc7b" />
 
 
 6. MongoDB Collections
@@ -96,13 +99,13 @@ Collections:
 
 Screenshots:  
 Cluster view:  
-https://github.com/user-attachments/assets/c1e80718-6d6d-4268-88b0-727895d176a4  
+<img width="221" height="91" alt="image" src="https://github.com/user-attachments/assets/c1e80718-6d6d-4268-88b0-727895d176a4" />
 
 Group messages collection:  
-https://github.com/user-attachments/assets/f338720f-47aa-42d5-ba75-864f842ced1a  
+<img width="988" height="94" alt="image" src="https://github.com/user-attachments/assets/f338720f-47aa-42d5-ba75-864f842ced1a" />
 
 Private messages collection:  
-https://github.com/user-attachments/assets/208fb085-20e2-4899-81d0-95aa455e9f56
+<img width="981" height="92" alt="image" src="https://github.com/user-attachments/assets/208fb085-20e2-4899-81d0-95aa455e9f56" />
 
 
 7. How to Run
