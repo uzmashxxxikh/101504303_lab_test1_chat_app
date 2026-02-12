@@ -3,8 +3,6 @@
 Student: Uzma Shaikh  
 Student ID: 101504303  
 
-GitHub repo: https://github.com/uzmashxxxikh/101504303_lab_test1_chat_app
-
 ---
 
 ## 1. Packages / Project Setup
