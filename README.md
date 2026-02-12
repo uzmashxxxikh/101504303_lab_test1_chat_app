@@ -6,7 +6,21 @@ Student ID: 101504303
 ---
 
 ## 1. Packages / Project Setup
-To start the server in development mode:
+
+🛠️ Installation and Setup
+
+1. Initialize the Project:
+`npm init -y`
+
+2. Install Production Dependencies
+`npm install express mongoose socket.io cors`
+
+4. Install Development Dependencies
+`npm install --save-dev nodemon`
+
+---
+
+🏃How to Run:
 `npm run dev`
 
 The project uses:
